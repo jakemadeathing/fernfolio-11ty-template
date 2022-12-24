@@ -1,6 +1,6 @@
 {
   "title": "Fernfolio",
-  "image": "https://coruscating-croquembouche-4eff6f.netlify.app/assets/img/out.gif",
+  "image": "/src/assets/img/42f10d96-d148-433f-a714-209228b97a8f.jpeg",
   "image_alt": "Fern in hand",
   "body": "The super simple portfolio template built with [Eleventy](https://www.11ty.dev/) and [Netlify CMS](https://www.netlifycms.org/)."
 }
